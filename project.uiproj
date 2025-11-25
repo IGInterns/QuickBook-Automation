@@ -1,0 +1,6 @@
+{
+  "Name": "workflow_create_invoice",
+  "ProjectType": "Process",
+  "Description": "Authentication + Invoice creation",
+  "MainFile": "Main.xaml"
+}
