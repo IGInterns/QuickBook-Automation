@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_FHj7hMRx0u8by79UzLReQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="667a240f-5723-4ecc-a06d-6946274faba8" CvElementArea="38, 257, 32, 32" CvType="Icon" DesignTimeRectangle="40, 258, 30, 30" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='create' tag='svg' /&gt;" Guid="65c2549c-52e3-4b22-b03d-68d6d1627577" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGrSURBVFhH7ZctTgRBEEb3gFgUBotCITE4JAaJQuAxm+wBMCRcAEE4AYJghzySL/lS09U/ExZGrHjZzXRP1euq7tnZzcfn17QGNvHCf3EQiSwWeX17nx63u+nu/uHnE56eX2bzehkSITmJj45PUk7Pzqfrm9thqS6RHoGIhGKsjKYIEgT1JEgBY5qjVpE8CmlejaoIATzoxeVVV9BYQWRaraqKkNirEMdbRJnaIlIRL/ESCeEytT1TFKGM3o44PoovKmtRUcRvrJUTEKXs8brjey1bWFFEp6RWSvDKZSsV2m+Z9EyEI6jgfI/jzohIa25VJGsLgcA3oh7xpSTg7SktcCbiweMY+JHOKJXfRUqncC8i2YYcEmm1hmtqgc8l+K+2prWpls5tLXAm0nPmxYiIP5viGMxEwM98LQHSow+07NlUFOm5cQTf4NnCiiKwih89oCp61PO5RCa+BsRxJxUBb5FWVNrxEe0dvzdriaiKKKi/KupdlOPoUnynAl4FzW9JQFMElMQT9DDSzi4RgVB8OY5oP/W00BkSESQB/bEi8Z/+wdonB5HIakS+AST4zgLySV1aAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='brave.exe' title='QuickBooks' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="145ba2369310ee7e416527374de3346e.png" xmlns="">0LGqNx4TduUWvWi3hv0BpZw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

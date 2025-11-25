@@ -1,0 +1,6 @@
+{
+  "Name": "Invoice Creation",
+  "ProjectType": "Process",
+  "Description": "Automating Invoice Creation in QuickBooks",
+  "MainFile": "Main.xaml"
+}

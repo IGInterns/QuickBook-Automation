@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vRugCgyOkUeoGgxXkebIeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="86c5a992-6d65-41fa-8205-95f6bf5833eb" CvElementArea="250, 656, 459, 51" CvType="InputBox" DesignTimeRectangle="255, 660, 456, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='idsDropdownTypeaheadTextField6' type='text' tag='INPUT' class='idsF TextField-TFInput-a737545 TextField-TFNoErrorText-a737545 TextField-TFNotDisabled-a737545 TextField-TFAddonAfter-a737545 TextField-size-medium-a737545' placeholder='Select a product/service' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="657f4996-53f5-428f-9393-1a71ceba967c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='brave.exe' title='Invoice' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="86c5a992-6d65-41fa-8205-95f6bf5833eb" CvTextArea="230, 672, 7, 15" CvTextArgument="1" CvType="Text" DesignTimeRectangle="199, 660, 41, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='1' type='' tag='DIV' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='1' /&gt;" Guid="cd4cf3a4-385b-47f5-8110-2a4b0f98a517" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="942392161fe056143475ecf29f1d4949.png" xmlns="">00LEV1eJAhUOPS8hM5mLelw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

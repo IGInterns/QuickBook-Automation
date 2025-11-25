@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lKzoRBigtkmWdwH2VcPOqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="2e6ba36a-7e91-4410-b848-9d873bfed7b6" CvElementArea="1493, 961, 144, 49" CvType="InputBox" DesignTimeRectangle="1595, 972, 30, 30" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='btnIcon' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;footer&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;svg' tag='svg' /&gt;" Guid="891b3d96-20db-45b7-9251-a2e0783afa41" ScopeSelectorArgument="&lt;html app='brave.exe' title='Invoice' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2e6ba36a-7e91-4410-b848-9d873bfed7b6" CvElementArea="1493, 961, 144, 49" CvType="InputBox" DesignTimeRectangle="1496, 964, 86, 45" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Save' class='idsTSButton idsF Button-button-6a785d2 Button-size-medium-6a785d2 Button-purpose-standard-6a785d2 Button-priority-secondary-6a785d2 SplitButton-buttonWrapper-f41e091 SplitButton-medium-f41e091' tag='BUTTON' type='button' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Save' /&gt;" Guid="3cbbadd8-ee25-4951-8830-1d9db4e2f113" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1b8d90db2e87195295b966435a14ae07.png" xmlns="">0DdmsegnnUECGb6YVVKcu6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

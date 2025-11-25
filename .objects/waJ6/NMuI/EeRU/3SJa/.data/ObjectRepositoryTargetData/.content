@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="euK7577g5Ua62SpF0gqwkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e0d7dfe6-7739-497e-8bf0-73c164fa387f" CvTextArea="109, 435, 177, 18" CvTextArgument="Product or service" CvType="Text" DesignTimeRectangle="111, 431, 1719, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='txp-capability-productService-FOjRh' parentid='sales-forms-ui/edit_or_preview_form' tag='P' /&gt;" Guid="341400ed-7ccc-4d4e-919e-6d7dbfd9b3c8" ScopeSelectorArgument="&lt;html app='brave.exe' title='Invoice' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="111, 419, 1719, 246" FuzzySelectorArgument="&lt;webctrl type='' class='txp-capability-gridWrapper-S3hVE' parentid='sales-forms-ui/edit_or_preview_form' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Product or service #Product/serviceDescriptionQtyRateAmount1&amp;#xA;    To pick up a draggable item, press the space bar.&amp;#xA;    While dragging, use the arrow keys to move the item.&amp;#xA;    Press space again to drop the item in its new position, or press escape to cancel.&amp;#xA;  Add product or serviceClear all lines' /&gt;" Guid="c4563b85-aece-4293-b8da-cb1fec6e395e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2e018611ec5aae4929a8e534f295b59a.png" xmlns="">0L6tqbShkb06KI5reUK0cmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

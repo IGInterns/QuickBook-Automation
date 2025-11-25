@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="htnijLSYW0uJWGQKZhQR4w" Reference="1qEbtif4906C9Y2afEoB0A/EyOaPOGi3EeSi04l4ZJ2cw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e12aa4ba-7e8f-4f7e-a65e-a501f7ec0df6" CvElementArea="109, 725, 272, 36" CvType="InputBox" DesignTimeRectangle="111, 729, 268, 30" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='idsDropdownTypeaheadTextField8' tag='INPUT' /&gt;" Guid="fcc97b05-23f3-4fb0-9fd4-0ccdb0289338" ScopeSelectorArgument="&lt;html app='brave.exe' title='Invoice' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e12aa4ba-7e8f-4f7e-a65e-a501f7ec0df6" CvTextArea="109, 514, 153, 30" CvTextArgument="INVOICE" CvType="Text" DesignTimeRectangle="111, 510, 152, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='txp-capability-title-c9Yc9' aaname='Invoice' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Invoice' /&gt;" Guid="66c8f1c4-70c5-48a9-a93d-4ad12c0469b8" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="e12aa4ba-7e8f-4f7e-a65e-a501f7ec0df6" CvTextArea="109, 641, 108, 20" CvTextArgument="Edit company" CvType="Text" DesignTimeRectangle="111, 634, 106, 35" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='sales-forms-ui/edit_or_preview_form' tag='BUTTON' type='' class='LinkButton-linkButton-f582b06' aaname='Edit company' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Edit company' /&gt;" Guid="012fe5f2-6d5c-432e-b5a7-49fee989d649" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="e12aa4ba-7e8f-4f7e-a65e-a501f7ec0df6" CvTextArea="691, 805, 87, 16" CvTextArgument="Invoice no." CvType="Text" DesignTimeRectangle="692, 801, 223, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Invoice no.' parentid='sales-forms-ui/edit_or_preview_form' tag='SPAN' type='' class='TextField-TFLabelOverride-a737545 TextField-size-medium-a737545 Typography-body-3-e793b1d' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Invoice no.' /&gt;" Guid="29f8722a-d1fc-410e-a49f-8c1d1f529910" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="460c290293b0bc925a9c30e362dec4a2.png" xmlns="">0gAdaRGGsFU21iV-DpITVkw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

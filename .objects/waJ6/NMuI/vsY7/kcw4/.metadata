@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save and newCtrl+Alt+S",
+  "Type": "Element",
+  "Id": "kcw4UVuvdkSgyoSGOSSe1g",
+  "Reference": "1qEbtif4906C9Y2afEoB0A/kcw4UVuvdkSgyoSGOSSe1g",
+  "ParentRef": "1qEbtif4906C9Y2afEoB0A/vsY7eurwUkCbqoIOVu8y9Q",
+  "Created": "2025-11-12T11:11:44.6610588Z",
+  "Updated": "2025-11-12T11:11:44.6610588Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

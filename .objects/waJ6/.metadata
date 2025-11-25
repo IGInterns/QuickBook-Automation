@@ -1,0 +1,12 @@
+﻿{
+  "Name": "QuickBooks",
+  "Type": "App",
+  "Id": "waJ61ivdMUG-Dz-nJ-HICg",
+  "Reference": "1qEbtif4906C9Y2afEoB0A/waJ61ivdMUG-Dz-nJ-HICg",
+  "Created": "2025-11-12T07:26:25.4505539Z",
+  "Updated": "2025-11-12T07:26:25.4505539Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

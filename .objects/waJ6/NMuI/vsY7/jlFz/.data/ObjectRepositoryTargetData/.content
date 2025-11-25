@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2dgdo1Q76EyxsMOe6y6MkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e1b91e87-8b97-4791-81ee-3c71054c2e60" CvTextArea="131, 344, 58, 15" CvTextArgument="Invoice" CvType="Text" DesignTimeRectangle="133, 341, 57, 21" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='invoice' tag='SPAN' /&gt;" Guid="971b54a2-e6e7-48eb-a53f-385b235f6e38" ScopeSelectorArgument="&lt;html app='brave.exe' title='QuickBooks' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e1b91e87-8b97-4791-81ee-3c71054c2e60" CvElementArea="38, 257, 31, 31" CvType="Icon" DesignTimeRectangle="40, 258, 30, 30" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='create' tag='svg' /&gt;" Guid="9d4dbe11-4805-4b22-bec0-09fb14a68aa5" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGrSURBVFhH7ZctTgRBEEb3gFgUBotCITE4JAaJQuAxm+wBMCRcAEE4AYJghzySL/lS09U/ExZGrHjZzXRP1euq7tnZzcfn17QGNvHCf3EQiSwWeX17nx63u+nu/uHnE56eX2bzehkSITmJj45PUk7Pzqfrm9thqS6RHoGIhGKsjKYIEgT1JEgBY5qjVpE8CmlejaoIATzoxeVVV9BYQWRaraqKkNirEMdbRJnaIlIRL/ESCeEytT1TFKGM3o44PoovKmtRUcRvrJUTEKXs8brjey1bWFFEp6RWSvDKZSsV2m+Z9EyEI6jgfI/jzohIa25VJGsLgcA3oh7xpSTg7SktcCbiweMY+JHOKJXfRUqncC8i2YYcEmm1hmtqgc8l+K+2prWpls5tLXAm0nPmxYiIP5viGMxEwM98LQHSow+07NlUFOm5cQTf4NnCiiKwih89oCp61PO5RCa+BsRxJxUBb5FWVNrxEe0dvzdriaiKKKi/KupdlOPoUnynAl4FzW9JQFMElMQT9DDSzi4RgVB8OY5oP/W00BkSESQB/bEi8Z/+wdonB5HIakS+AST4zgLySV1aAAAAAElFTkSuQmCC" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-3" Y="-4" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="7e787d9145b86c4efe3f36992efef902.png" xmlns="">0X7vhFOxrIEOpjArDask8GQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a7bLsq3avkCsvtbKfteQeA" Reference="1qEbtif4906C9Y2afEoB0A/acSSxNLHRUai2O5GVPYy_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="255, 714, 456, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='idsDropdownTypeaheadTextField6' type='text' tag='INPUT' class='idsF TextField-TFInput-a737545 TextField-TFNoErrorText-a737545 TextField-TFNotDisabled-a737545 TextField-TFAddonAfter-a737545 TextField-size-medium-a737545' placeholder='Select a product/service' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3b9616c6-6c49-4263-9fc2-43f823a04ae4" IsResponsive="True" ScopeSelectorArgument="&lt;html app='brave.exe' title='Invoice' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="605bf10c-984e-4244-9786-c2cf60c12fac" CvTextArea="254, 614, 126, 16" CvTextArgument="Product/service" CvType="Text" DesignTimeRectangle="255, 673, 456, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='DIV' class='txp-capability-contentWrapper-qAxHH' aaname='Product/service' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Product/service' /&gt;" Guid="900358fc-40a1-4b13-bc96-e63403bfb208" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="03289bbe-3bf2-47aa-bc6c-3ae6832fa23c" CvTextArea="722, 677, 95, 18" CvTextArgument="Description" CvType="Text" DesignTimeRectangle="724, 673, 369, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Description' type='' tag='DIV' class='txp-capability-contentWrapper-qAxHH' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Description' /&gt;" Guid="7414de64-807a-41b8-b717-c289e80b1411" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="14b17d52f590b98b843182a6c3ba8af8.png" xmlns="">0VWTYO3-oOU2-dXO6S51AgA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

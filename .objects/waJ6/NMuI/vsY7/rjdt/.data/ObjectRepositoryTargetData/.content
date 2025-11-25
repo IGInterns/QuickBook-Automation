@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cjynWvt310-l64PY38Hu0Q" Reference="1qEbtif4906C9Y2afEoB0A/rjdtKpQsVk2Oku0fbTyXWQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1312, 605, 193, 45" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='INPUT' colName='Rate' /&gt;" Guid="aea56b96-42e1-445a-9752-f102f91493ac" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAMUAAAAxCAYAAABqO23/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACOSURBVHhe7dOhAQAwCMAw/n966PUFElnfecBnGuA6U0CYAsIUEKaAMAWEKSBMAWEKCFNAmALCFBCmgDAFhCkgTAFhCghTQJgCwhQQpoAwBYQpIEwBYQoIU0CYAsIUEKaAMAWEKSBMAWEKCFNAmALCFBCmgDAFhCkgTAFhCghTQJgCwhQQpoAwBYQpIEwBsYiIRfdYP8xMAAAAAElFTkSuQmCC" IsResponsive="True" ScopeSelectorArgument="&lt;html app='brave.exe' title='Invoice' /&gt;" SearchSteps="Selector, Image" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="934faf4e-155b-4446-87e2-35f73d1f5bcd" CvTextArea="1467, 569, 37, 15" CvTextArgument="Rate" CvType="Text" DesignTimeRectangle="1312, 564, 193, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Rate' class='txp-capability-contentWrapper-qAxHH' type='' tag='DIV' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Rate' /&gt;" Guid="fe260591-e754-4a85-9107-5c4cbcb6e8d2" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="934faf4e-155b-4446-87e2-35f73d1f5bcd" CvTextArea="1267, 569, 31, 18" CvTextArgument="Qty" CvType="Text" DesignTimeRectangle="1106, 564, 193, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Qty' class='txp-capability-contentWrapper-qAxHH' type='' tag='DIV' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Qty' /&gt;" Guid="85e36b0b-2469-43f1-89a8-d4ee8bb64f53" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="934faf4e-155b-4446-87e2-35f73d1f5bcd" CvTextArea="1684, 569, 70, 15" CvTextArgument="Amount" CvType="Text" DesignTimeRectangle="1519, 564, 233, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Amount' class='txp-capability-contentWrapper-qAxHH' type='' tag='DIV' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Amount' /&gt;" Guid="adf2e2be-dc4a-48dd-af6a-66ed57b07791" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="966ff2d9ef9a62311301a1e3dd246f8d.png" xmlns="">0CgTB2bYZ2k-mcsemcLx9hg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

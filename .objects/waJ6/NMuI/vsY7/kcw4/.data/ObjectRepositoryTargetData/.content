@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="L29ygBuM1kKZfMiHsMFlfw" Reference="1qEbtif4906C9Y2afEoB0A/kcw4UVuvdkSgyoSGOSSe1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1fffe2e5-5691-46b3-8e93-17f2d3515730" CvTextArea="1401, 919, 225, 18" CvTextArgument="Save and close Ctrl+Alt+D" CvType="Text" DesignTimeRectangle="1403, 914, 223, 30" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='none' parentid='idsMenuItem1026' tag='SPAN' /&gt;" Guid="f66ef921-926a-4cc8-a9d0-83b5d4218caf" ScopeSelectorArgument="&lt;html app='brave.exe' title='Invoice' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1fffe2e5-5691-46b3-8e93-17f2d3515730" CvTextArea="1401, 869, 127, 18" CvTextArgument="Save and new" CvType="Text" DesignTimeRectangle="1403, 864, 211, 30" FuzzySelectorArgument="&lt;webctrl aria-role='none' tag='SPAN' type='' class='Menu-menu-item-container-2d80696 Menu-size-medium-2d80696 Typography-body-2-e793b1d' aaname='Save and new' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Save and newCtrl+Alt+S' /&gt;" Guid="7d1095f7-17a8-4e6c-aed0-e0969c677407" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9bfba4a817d74801ce75ca4cd343797.png" xmlns="">0WJ4w2rKDtUK7eFtGOMR7Xg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

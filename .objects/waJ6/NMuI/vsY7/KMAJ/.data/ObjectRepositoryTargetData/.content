@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nN5FlvjrNUu8oMruKzuZeA" Reference="1qEbtif4906C9Y2afEoB0A/KMAJoULmrE6efyIbGZleJg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="eb14ca59-0782-4700-adc5-c733b87f355e" CvElementArea="38, 257, 32, 32" CvType="Icon" DesignTimeRectangle="33, 251, 45, 45" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='create' tag='DIV' /&gt;" Guid="df5a5597-e376-45cc-bae6-e8e505fa846f" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADEAAAAxCAYAAABznEEcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHVSURBVGhD7ZihTgUxEEXfB2JRGCwKhcTgkBgkCoHHkPABGBJ+AEH4AgTBLrkkN7kZtjud6ebRJRUn72Vb2Hum077N7j4+v6ats7MXtsiQ6IUh0QtDoheGRC8MiRKvb+/T/cPjdHN79/MJnp5ffs1bi9UkEByhDw6PihyfnE6XV9erCzVL1IS3UMb+ryxNEhBAIA0IIYAxzmF7IbiV4bwW0hK4uQY6O7+oCmRXDiKt7ZWWQGitvh33sCI1BSiRktC2yAgQFWnZI2EJLL22kB2PogXJtlVYQm/qtQAk0Sr2uqJ7K1uUsARPI2/5dcW8CnN/ecIlQhI4JhkM3+24EpGIzJ0jLVFqJYQAumn52FEKqC3lFWeOkIQGs2NAj90Scy2jEpnTbu8Spc27NwmvnXCNbaNzEaybdopswMhcrzgeIYnImR6R0N8eO1ZDSALomb4UDsLRHzvvt6dEWGKNmyp6GCwVZYmwBNj8AyDAavDxA58ZEfsobscjpCSAthUrWXOycK/o32bbiKQlgK4IKwoZHJkqhO+ovFaf81sFQJMEYEANV0OmBUs0SxDI2BcBFu6fmraLsJoEQUDAl2YIvZmXZ3/JkOiFIdELQ6IXhkQvDIle+BcS31jyhXSke9Z+AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='brave.exe' title='QuickBooks' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="29, 186, 144, 38" FullSelectorArgument="&lt;webctrl aria-role='heading' tag='DIV' /&gt;" Guid="2bd220e7-d4a2-45ec-8fba-a29d353da1cd" SearchSteps="Selector" />
+          <Target CVScreenId="053f775e-71a1-404e-a4e3-572fb88fad04" CvElementArea="39, 341, 30, 33" CvType="Icon" DesignTimeRectangle="33, 336, 45, 45" FullSelectorArgument="&lt;webctrl parentid='bookmarks' tag='DIV' /&gt;" Guid="c96d129b-67dc-4547-b549-1c67f35ccf46" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADEAAAAxCAYAAABznEEcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEdSURBVGhD7ZchDsJAEEV7QCwKg0WhkBgcEoNEIfAYEg6AIeECCMIJEAS75DfZZPvbNN0pCdPki2d2dif7ZrZNpni9P2HoFLwwRCThBUl4QRJekIQXJAHuj2fY7Q/ZHE/ncLneavks9JJYLFdhNJ70Yr3Z1vLmYpZANflCVpCL8+dglpjO5uUF0A2OdQHPMHYSuTieg1niF1VMu8mxHCQhCUlUkYQkJFFFEpKQRBVJtElgasPAAzDFcRy4lUjnhBTMDDyOupOIszZfPA5PEXQGe3HGlQRfvoscn+P8OZgluMIRPKVY6RSsoQu8/68STdXlN98EZLgA/F3lYpYA+OvEZ8GxNiBiPdtELwkvSMILkvCCJLwgCS9IwguS8MIXxRGyatBhQvEAAAAASUVORK5CYII=" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="158d4fd8b642d764e64b749fa6f3e883.png" xmlns="">0Cg2Hp0NewE6Y48t4Y1TF7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

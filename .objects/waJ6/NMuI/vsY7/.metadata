@@ -1,0 +1,13 @@
+﻿{
+  "Name": "QuickBooks",
+  "Type": "Screen",
+  "Id": "vsY7eurwUkCbqoIOVu8y9Q",
+  "Reference": "1qEbtif4906C9Y2afEoB0A/vsY7eurwUkCbqoIOVu8y9Q",
+  "ParentRef": "1qEbtif4906C9Y2afEoB0A/NMuIRzs-SUq1sX4MEsTzjA",
+  "Created": "2025-11-12T07:26:25.8387693Z",
+  "Updated": "2025-11-12T07:26:25.8387693Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
